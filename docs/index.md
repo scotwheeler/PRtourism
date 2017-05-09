@@ -2,6 +2,7 @@
 
 ## My maps
 [Link to point map](https://scotwheeler.github.io/PRtourism/scot_tourism_map.html)
+
 [Link to area map](https://scotwheeler.github.io/PRtourism/scot_tourism_area_map.html)
 
 ## word clouds
