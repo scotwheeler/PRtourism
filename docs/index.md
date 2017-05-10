@@ -1,4 +1,4 @@
-# Scot's parkrun Tourism Geospatial Analysis Page
+# Scot's parkrun tourism geospatial analysis page
 
 ## My maps
 First is a map of UK parkrun locations, coloured based on my tourism.
