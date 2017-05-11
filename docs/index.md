@@ -8,6 +8,10 @@ First is a map of UK parkrun locations, coloured based on my tourism.
 
 Next is a an interactive map which shows the Voronoi diagram for UK parkruns, with my tourism areas highlighted.
 
+[Link to area map](https://scotwheeler.github.io/PRtourism/scot_tourism_simple_area_map.html)
+
+Next is an alternative to the map above.
+
 [Link to area map](https://scotwheeler.github.io/PRtourism/scot_tourism_area_map.html)
 
 Here are more simple static versions of the Voronoi diagrams for mine and Hayleigh's UK tourism. 
