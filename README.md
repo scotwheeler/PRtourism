@@ -1,7 +1,7 @@
 # PRtourism
 A project to learn geospatial analysis in python.
  
-Parkrun locations are obtained from the UK parkrun website.
+Locations are obtained from the UK parkrun website.
 
 Individual user data has been provided by the user. 
 
