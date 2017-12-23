@@ -1,7 +1,10 @@
 # PRtourism
-A project to learn geospatial analysis in python. Code to follow.
+A project to learn geospatial analysis in python.
+ 
+Parkrun locations are obtained from the UK parkrun website.
 
-Maps are created in Python using the following packages: Numpy, Pandas, GeoPandas, Bokeh, Fiona, Shapely, Cartopy, SciPy. 
-Parkrun locations are from the UK parkrun website. 
+Individual user data has been provided by the user. 
 
-Word Clouds are created in Python using the following packages: Wordcloud, Matplotlib, SciPy, Pandas.
+The content of this project itself is licensed under the 
+[Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US)
+, and the underlying source code used to format and display that content is licensed under the MIT license.
